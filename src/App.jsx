@@ -57,7 +57,7 @@ export default function App() {
         })
       )
       .catch(() => dispatch({ type: "FAILURE" }));
-  }, [products.data]);
+  }, [products]);
 
   return (
     <div className="flex">
@@ -71,7 +71,7 @@ export default function App() {
                 onClick={() => {
                   dispatch({ type: "SELECT_CATEGORY", payload: category.id });
                 }}
-                className="hover:cursor-pointer"
+                className="hover:cursor-pointer bg-slate-400"
               >
                 {category.name}
               </div>
