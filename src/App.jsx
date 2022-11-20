@@ -98,6 +98,7 @@ export default function App() {
           filteredProducts={filteredProducts}
           products={products}
         />
+        
         {products.hasError && <p>Something went wrong</p>}
       </div>
     </div>
