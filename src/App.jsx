@@ -1,17 +1,18 @@
-import React, { useState } from "react";
-import { useReducer, useEffect } from "react";
-import axios from "axios";
-import "./App.css";
+import React, { useState } from 'react';
+import { useReducer, useEffect } from 'react';
+import axios from 'axios';
+import './App.css';
+import ProductList from './components/ProductList';
 
 const categories = [
   {
     id: 1,
-    name: "Album",
+    name: 'Album',
   },
-  { id: 2, name: "DVD" },
+  { id: 2, name: 'DVD' },
   {
     id: 3,
-    name: "BT21",
+    name: 'BT21',
   },
 ];
 
@@ -50,7 +51,7 @@ export default function App() {
   const [isSelected, setIsSelected] = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:3000/products")
+    fetch('http://localhost:3000/products')
       .then((res) => res.json())
       .then((data) => {
         setProducts({
@@ -71,16 +72,16 @@ export default function App() {
   }, [selectedCategory]);
 
   return (
-    <div className="flex">
-      <div className="sidebar w-2/12">
-        <div className="category">
+    <div className='flex'>
+      <div className='sidebar w-2/12'>
+        <div className='category'>
           <h2>Product's Category</h2>
           <ul>
             {categories.map((category) => (
               <li
                 key={category.id}
                 onClick={() => setSelectedCategory(category.id)}
-                className="hover:cursor-pointer bg-slate-400 hover:bg-slate-300 py-2 text-center border-b border-gray-100"
+                className='hover:cursor-pointer bg-slate-400 hover:bg-slate-300 py-2 text-center border-b border-gray-100'
               >
                 {category.name}
               </li>
@@ -89,41 +90,14 @@ export default function App() {
         </div>
         {/* <div className="filtered"></div> */}
       </div>
-      <div className="list w-10/12 flex flex-wrap justify-center gap-10">
-        {products.isLoading ? (
-          <p>Loading...</p>
-        ) : isSelected ? (
-          filteredProducts.map((product) => {
-            return (
-              <div key={product.id} className="product w-60">
-                <img
-                  className="w-60 h-64 image m-0"
-                  src={product.image}
-                  alt=""
-                />
-                <h3 className="name">{product.name}</h3>
+      <div className='list w-10/12 flex flex-wrap justify-center gap-10'>
+        {products.isLoading && <p>Loading...</p>}
 
-                <span>{product.price}</span>
-              </div>
-            );
-          })
-        ) : (
-          products.data.map((product) => {
-            return (
-              <div key={product.id} className="product w-60">
-                <img
-                  className="w-60 h-64 image m-0"
-                  src={product.image}
-                  alt=""
-                />
-                <h3 className="name">{product.name}</h3>
-
-                <span>{product.price}</span>
-              </div>
-            );
-          })
-        )}
-
+        <ProductList
+          isSelected={isSelected}
+          filteredProducts={filteredProducts}
+          products={products}
+        />
         {products.hasError && <p>Something went wrong</p>}
       </div>
     </div>

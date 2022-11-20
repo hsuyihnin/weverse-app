@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite && npx json-server --watch data/db.json",
+    "dev": "vite",
+    "json-watch": "npx json-server --watch data/db.json",
     "build": "vite build",
     "preview": "vite preview"
   },
