@@ -5,329 +5,369 @@
       "image": "https://cdn-contents.weverseshop.io/public/shop/88279c8dc3c5cae4cbeb56987e51de1a.png",
       "id": 1,
       "price": 31.58,
-      "category": 1
+      "category": 1,
+      "year":2022
     },
     {
       "name": "Jin (BTS) The Astronaut (Random)",
       "image": "https://cdn-contents.weverseshop.io/public/shop/cf999f75791c0e7a72046ca403ccde57.png",
       "id": 2,
       "price": 15.79,
-      "category": 1
+      "category": 1,
+      "year": 2022
     },
     {
       "name": "LOVE YOURSELF 承 'Her' (LP)",
       "image": "https://cdn-contents.weverseshop.io/public/shop/de555d670af7f82f0ef484beff44c651.png?q=100&w=1440&h=1728",
       "id": 3,
       "price": 48.3,
-      "category": 1
+      "category": 1,
+      "year": 2017
     },
     {
       "name": "Proof (Collector’s Edition)",
       "image": "https://cdn-contents.weverseshop.io/public/shop/8d1f76c5ff0e19355fbfa4ca1ec0fa6f.png?q=100&w=1440&h=1728",
       "id": 4,
       "price": 275.91,
-      "category": 1
+      "category": 1,
+      "year": 2022
     },
     {
       "name": "Proof (Set)",
       "image": "https://cdn-contents.weverseshop.io/public/shop/1c00e06c1c0957b956a15a6130c704d7.png?q=100&w=1440&h=1728",
       "id": 5,
       "price": 68.93,
-      "category": 1
+      "category": 1,
+      "year": 2022
     },
     {
       "name": "Proof (Standard Edition)",
       "image": "https://cdn-contents.weverseshop.io/public/shop/6118fdba65161fa21b3c4dad56d43f95.png?q=100&w=1440&h=1728",
       "id": 6,
       "price": 51.0,
-      "category": 1
+      "category": 1,
+      "year": 2022
     },
     {
       "name": "Proof (Compact Edition)",
       "image": "https://cdn-contents.weverseshop.io/public/shop/5895972dbce0ef26b2fac9e673579279.png?q=100&w=1440&h=1728",
       "id": 7,
       "price": 17.92,
-      "category": 1
+      "category": 1,
+      "year": 2022
     },
     {
       "name": "Jack In The Box [LP] (Limited Edition)",
       "image": "https://cdn-contents.weverseshop.io/public/shop/180b8d93484a0d55c0fdf78be2a6ce3d.png?q=100&w=1440&h=1728",
       "id": 8,
       "price": 48.3,
-      "category": 1
+      "category": 1,
+      "year": 2022
     },
     {
       "name": "j-hope’s solo album “Jack In The Box” (Weverse Albums)",
       "image": "https://cdn-contents.weverseshop.io/public/shop/4fa2fe6cff5874223240a245d1bdb113.png?q=100&w=1440&h=1728",
       "id": 9,
       "price": 9.75,
-      "category": 1
+      "category": 1,
+      "year": 2022
     },
     {
       "name": "YOU NEVER WALK ALONE",
       "image": "https://cdn-contents.weverseshop.io/public/shop/5dbca5212d9d14165501b734aa78e3e0.jpg?q=100&w=1440&h=1728",
       "id": 10,
       "price": 16.53,
-      "category": 1
+      "category": 1,
+      "year": 2016
     },
     {
       "name": "BTS 2nd Album [WINGS]",
       "image": "https://cdn-contents.weverseshop.io/public/shop/a9853e7ff4623d7920b03afbab734a56.jpg?q=100&w=1440&h=1728",
       "id": 11,
       "price": 13.84,
-      "category": 1
+      "category": 1,
+      "year": 2016
     },
-    {
-      "name": "LOVE YOURSELF 承 'Her' (LP)",
-      "image": "https://cdn-contents.weverseshop.io/public/shop/de555d670af7f82f0ef484beff44c651.png?q=100&w=1440&h=1728",
-      "id": 12,
-      "price": 48.3,
-      "category": 1
-    },
+    
     {
       "name": "LOVE YOURSELF 結 ‘Answer’",
       "image": "https://cdn-contents.weverseshop.io/public/shop/4cdd20625903dcd059a4bffe75c4ff86.jpg?q=100&w=1440&h=1728",
       "id": 13,
       "price": 16.53,
-      "category": 1
+      "category": 1,
+      "year": 2017
     },
     {
       "name": "LOVE YOURSELF 轉 'Tear'",
       "image": "https://cdn-contents.weverseshop.io/public/shop/c6e60dbc87d9db215bed26652ee71f41.jpg?q=100&w=1440&h=1728",
       "id": 14,
       "price": 15.14,
-      "category": 1
+      "category": 1,
+      "year": 2017
     },
     {
       "name": "LOVE YOURSELF 承 'Her'",
       "image": "https://cdn-contents.weverseshop.io/public/shop/6b73c96a86f625f64c9a782c81ff2ae7.jpg?q=100&w=1440&h=1728",
       "id": 15,
       "price": 13.84,
-      "category": 1
+      "category": 1,
+      "year": 2017
     },
     {
       "name": "Memories of 2021 DVD",
       "image": "https://cdn-contents.weverseshop.io/public/shop/70c7e1566dd3abfeceaa1bb636a95d7c.png?q=100&w=1440&h=1728",
       "id": 16,
       "price": 63.17,
-      "category": 2
+      "category": 2,
+      "year": 2021
     },
     {
       "name": "Memories of 2021 Blu-ray",
       "image": "https://cdn-contents.weverseshop.io/public/shop/f8a2462c6cf82a7fdb897c374deb8438.png?q=100&w=1440&h=1728",
       "id": 17,
       "price": 88.25,
-      "category": 2
+      "category": 2,
+      "year": 2021
     },
     {
       "name": "Memories of 2021 DIGITAL CODE",
       "image": "https://cdn-contents.weverseshop.io/public/shop/b8ed5f56e70b2a118d9d1213cc95c54b.png?q=100&w=1440&h=1728",
       "id": 18,
       "price": 88.25,
-      "category": 2
+      "category": 2,
+      "year": 2022
     },
     {
       "name": "BTS MEMORIES OF 2020 DVD",
       "image": "https://cdn-contents.weverseshop.io/public/shop/6074dc1e9da594f166e70820230d2f65.jpg?q=100&w=1440&h=1728",
       "id": 19,
       "price": 63.17,
-      "category": 2
+      "category": 2,
+      "year": 2020
     },
     {
       "name": "BTS MEMORIES OF 2018 BLU-RAY",
       "image": "https://cdn-contents.weverseshop.io/public/shop/de45dd6f3d0d98c777aad36724163c1b.jpg?q=100&w=1440&h=1728",
       "id": 20,
       "price": 78.0,
-      "category": 2
+      "category": 2,
+      "year": 2018
     },
     {
       "name": "BTS MEMORIES OF 2019 BLU-RAY",
       "image": "https://cdn-contents.weverseshop.io/public/shop/15d34ac551a9cb5aacdbfbbd8d612ccd.jpg?q=100&w=1440&h=1728",
       "id": 21,
       "price": 86.39,
-      "category": 2
+      "category": 2,
+      "year": 2019
     },
     {
       "name": "BTS 2021 MUSTER SOWOOZOO DIGITAL CODE",
       "image": "https://cdn-contents.weverseshop.io/public/shop/d1066c91e382a9257cca4b1b0e8dc094.png?q=100&w=1440&h=1728",
       "id": 22,
       "price": 53.88,
-      "category": 2
+      "category": 2,
+      "year": 2021
     },
     {
       "name": "2019 BTS 5TH MUSTER [MAGIC SHOP] BLU-RAY",
       "image": "https://cdn-contents.weverseshop.io/public/shop/58eac90731497d164a636646f7f488d1.jpg?q=100&w=1440&h=1728",
       "id": 23,
       "price": 60,
-      "category": 2
+      "category": 2,
+      "year": 2019
     },
     {
       "name": "BTS 4th MUSTER [Happy Ever After] DVD",
       "image": "https://cdn-contents.weverseshop.io/public/shop/b9b54906ba7baf07893c6f81a040e7f8.jpg?q=100&w=1440&h=1728",
       "id": 24,
       "price": 39.94,
-      "category": 2
+      "category": 2,
+      "year": 2019
     },
     {
       "name": "BTS 4th MUSTER [Happy Ever After] Blu-ray",
       "image": "https://cdn-contents.weverseshop.io/public/shop/a97f2f192886c7989d55b9ef978d5ad4.jpg?q=100&w=1440&h=1728",
       "id": 25,
       "price": 51.09,
-      "category": 2
+      "category": 2,
+      "year": 2019
     },
     {
       "name": "2020 Season's Greetings",
       "image": "https://cdn-contents.weverseshop.io/public/shop/c17f41a4e1808bf98d9fe0ce20aaac51.jpg?q=100&w=1440&h=1728",
       "id": 26,
       "price": 39.0,
-      "category": 2
+      "category": 2,
+      "year": 2020
     },
     {
       "name": "2021 Season's Greetings",
       "image": "https://cdn-contents.weverseshop.io/public/shop/e8c2170b18de6c0b149985b7c01de3e1.png?q=100&w=1440&h=1728",
       "id": 27,
       "price": 43.0,
-      "category": 2
+      "category": 2,
+      "year": 2021
     },
     {
       "name": "2022 Season's Greetings & Wall Calendar",
       "image": "https://cdn-contents.weverseshop.io/public/shop/80782fde08510902e2fe734430f21858.png?q=100&w=1440&h=1728",
       "id": 28,
       "price": 58.24,
-      "category": 2
+      "category": 2,
+      "year": 2022
     },
     {
       "name": "BTS WORLD TOUR ‘LOVE YOURSELF : SPEAK YOURSELF’ [THE FINAL] DVD",
       "image": "https://cdn-contents.weverseshop.io/public/shop/b5e7d6f71da3ae604f54ab2fa9e50a22.png?q=100&w=1440&h=1728",
       "id": 29,
       "price": 45.52,
-      "category": 2
+      "category": 2,
+      "year": 2019
     },
     {
       "name": "BTS WORLD TOUR ‘LOVE YOURSELF : SPEAK YOURSELF’ [THE FINAL] Blu-ray",
       "image": "https://cdn-contents.weverseshop.io/public/shop/02e44530875272b9b1db673fab27719e.png?q=100&w=1440&h=1728",
       "id": 30,
       "price": 54.81,
-      "category": 2
+      "category": 2,
+      "year": 2019
     },
     {
       "name": "BTS WORLD TOUR ‘LOVE YOURSELF : SPEAK YOURSELF’ [THE FINAL] DIGITAL",
       "image": "https://cdn-contents.weverseshop.io/public/shop/084c711c7387efbb675f27cf14781576.png?q=100&w=1440&h=1728",
       "id": 31,
       "price": 54.81,
-      "category": 2
+      "category": 2,
+      "year": 2019
     },
     {
       "name": "BTS MAP OF THE SOUL ON:E DVD",
       "image": "https://cdn-contents.weverseshop.io/public/shop/34d9f0c582fd4fb9c09eb55f6508473a.jpg?q=100&w=1440&h=1728",
       "id": 32,
       "price": 41.8,
-      "category": 2
+      "category": 2,
+      "year": 2021
     },
     {
       "name": "BTS MAP OF THE SOUL ON:E BLU-RAY",
       "image": "https://cdn-contents.weverseshop.io/public/shop/012808b1b7cd7794ae993a1b759a41b4.jpg?q=100&w=1440&h=1728",
       "id": 33,
       "price": 53.88,
-      "category": 2
+      "category": 2,
+      "year": 2022
     },
     {
       "name": "BTS WORLD TOUR ‘LOVE YOURSELF: SPEAK YOURSELF’ LONDON BLU-RAY",
       "image": "https://cdn-contents.weverseshop.io/public/shop/bcb2719e5573cbbbfda927d9d5440658.png?q=100&w=1440&h=1728",
       "id": 34,
       "price": 51.09,
-      "category": 2
+      "category": 2,
+      "year": 2019
     },
     {
-      "name": "22 Minini Rolling Stamp",
+      "name": "22 Mini Rolling Stamp",
       "image": "https://cdn-contents.weverseshop.io/public/shop/97aee40e74e2f6cd606b592c31b48921.png?q=100&w=1440&h=1728",
       "id": 35,
       "price": 18.58,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "Baby Lighting Face Keyring",
       "image": "https://cdn-contents.weverseshop.io/public/shop/206d1fa956d60c4d4d32ad52933f4868.png?q=100&w=1440&h=1728",
       "id": 36,
       "price": 12.07,
-      "category": 3
+      "category": 3,
+      "year": 2020
     },
     {
-      "name": "22 Minini Rolypoly Cushion",
+      "name": "22 Mini Rolypoly Cushion",
       "image": "https://cdn-contents.weverseshop.io/public/shop/08f8f68ad75edd00cc615e5182a9b113.png?q=100&w=1440&h=1728",
       "id": 37,
       "price": 12.07,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "22 Minini Soft Cushion",
       "image": "https://cdn-contents.weverseshop.io/public/shop/b03c83e053c88f8bdf0047ac5138a874.png?q=100&w=1440&h=1728",
       "id": 38,
       "price": 14.86,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "22 In The Forest Mini Plush",
       "image": "https://cdn-contents.weverseshop.io/public/shop/d6f0791e8a074fd351b5796f07176b1e.png?q=100&w=1440&h=1728",
       "id": 39,
       "price": 13.93,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "22 Sweet Things Plush Keyring",
       "image": "https://cdn-contents.weverseshop.io/public/shop/f3d004a61a992b5500d7551e5dc4bfd1.png?q=100&w=1440&h=1728",
       "id": 40,
       "price": 15.79,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "22 Automatic Folding Umbrella",
       "image": "https://cdn-contents.weverseshop.io/public/shop/8ad53e2d1ceb119018bb8d09465605c3.png?q=100&w=1440&h=1728",
       "id": 41,
       "price": 18.39,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "Wireless Charging Stand",
       "image": "https://cdn-contents.weverseshop.io/public/shop/daf479b2edc143fd97edc4c748b155a0.jpg?q=100&w=1440&h=1728",
       "id": 42,
       "price": 35.3,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "21 Holiday Standing Doll",
       "image": "https://cdn-contents.weverseshop.io/public/shop/9d133cb860af5105c62183d512283595.png?q=100&w=1440&h=1728",
       "id": 43,
       "price": 23.22,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "21 Holiday Mini Ornament",
       "image": "https://cdn-contents.weverseshop.io/public/shop/307f5814fb118d432a32bbf97650fd5d.png?q=100&w=1440&h=1728",
       "id": 44,
       "price": 13.93,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "21 GNP Bag Charm",
       "image": "https://cdn-contents.weverseshop.io/public/shop/992f0e25c44cb761ca12ccc92d16e69c.jpg?q=100&w=1440&h=1728",
       "id": 45,
       "price": 13.93,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "20 Baby Super Pillow_65cm",
       "image": "https://cdn-contents.weverseshop.io/public/shop/028f9b588971342bb0477ad7882dd268.jpg?q=100&w=1440&h=1728",
       "id": 46,
       "price": 91.97,
-      "category": 3
+      "category": 3,
+      "year": 2022
     },
     {
       "name": "20 Baby Super Pillow_65cm_SHOOKY",
       "image": "https://cdn-contents.weverseshop.io/public/shop/9cdcc897256e6fea68fabe8b4f85126c.jpg?q=100&w=1440&h=1728",
       "id": 47,
       "price": 82.68,
-      "category": 3
+      "category": 3,
+      "year": 2020
     }
   ]
 }
